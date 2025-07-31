@@ -35,6 +35,5 @@
 6. 컨트롤러(3)의 매개변수들은 동적 함수 구성(B_4)을 통해 매개변수를 통합시킨다.
 7. 선택된 규칙 서브셋(A_4)과 통합 매개변수(B_4)를 토대로 함수를 실행(C_4)하고 True/False의 결과를 도출한다.
 8. 검증 보고서 생성기(5)는 이를 사용자가 원하는 형식으로 변환(A_5)하여 결과를 전달(5)한다.
-<img width="2164" height="763" alt="Image" src="https://github.com/user-attachments/assets/125c9d72-162f-4f4b-bbbf-74f73a786a10" />
-
+<img width="2335" height="763" alt="Image" src="https://github.com/user-attachments/assets/dbceaf55-c086-4546-ab2c-8b0678d373f7" />
   
